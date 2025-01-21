@@ -1,0 +1,4 @@
+#+TITLE: MUS 232 Orchestration Scores
+#+AUTHOR: Jason Press
+
+This is the Github repo for my MUS 232 scores. I am using Github as a cloud sync to be able to work on scores on multiple devices.
